@@ -3355,6 +3355,7 @@ input, select, textarea {
 			#nav.alt ul li a{
 				position: relative;
 				top: -8px;
+				left: -10px
 			}
 				#nav + #main {
 					padding-top: 0;
